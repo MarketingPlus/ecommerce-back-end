@@ -1,4 +1,4 @@
-# Employee Management System by Benjamin Wilson
+# E-Commerce Back End by Benjamin Wilson
 
 ![LICENSE](https://img.shields.io/github/license/MarketingPlus/ecommerce-back-end)
 
