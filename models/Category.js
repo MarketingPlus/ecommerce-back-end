@@ -14,6 +14,7 @@ Category.init(
     },
     category_name: {
     type: DataTypes.STRING,
+    // allowNull: false
     }
   },
     {
@@ -26,3 +27,4 @@ Category.init(
 );
 
 module.exports = Category;
+
